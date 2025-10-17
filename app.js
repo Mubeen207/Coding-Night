@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyAsxRhyY6ASi7ZIUj33Tubs-Lq_bzxzRtQ",
-  authDomain: "codding-night.firebaseapp.com",
-  projectId: "codding-night",
-  storageBucket: "codding-night.firebasestorage.app",
-  messagingSenderId: "1010809930007",
-  appId: "1:1010809930007:web:7f48527e736cf3eeb7f752",
-  measurementId: "G-C4VT89B01G",
+  // apiKey: "",
+  // authDomain: "",
+  // projectId: "",
+  // storageBucket: "",
+  // messagingSenderId: "",
+  // appId: "",
+  // measurementId: "",
 };
 firebase.initializeApp(firebaseConfig);
 let fb = firebase.auth();
