@@ -1,0 +1,30 @@
+{
+  "name": "coding-night",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mubeen207/Coding-Night.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mubeen207/Coding-Night/issues"
+  },
+  "homepage": "https://github.com/Mubeen207/Coding-Night#readme",
+  "dependencies": {
+    "@google/genai": "^1.25.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "firebase": "^12.4.0",
+    "node-fetch": "^3.3.2"
+  }
+}
